@@ -1,0 +1,18 @@
+{
+  "name": "reen-theme",
+  "homepage": "https://github.com/makingdevs/reen-theme",
+  "authors": [
+    "Vanessa <vanvanemily@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
