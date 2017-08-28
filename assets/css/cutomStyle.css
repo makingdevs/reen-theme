@@ -1,0 +1,25 @@
+  @media (min-width: 768px) and (max-height: 1024px) {
+  #hero p {
+  font-size: 26px !important;
+  color: #fff !important;
+  }
+  }
+  @media (max-width: 767px) {
+  #hero p {
+  font-size: 19px !important;
+  color: #fff !important;
+  }
+  }
+
+  #hero p {
+  font-size: 28px !important;
+  color: #fff !important;
+  }
+  .navbar-nav > li > a {
+  font-size: 20px;
+  }
+
+  .inner {
+  padding-top: 100px;
+  padding-bottom: 40px;
+  }
