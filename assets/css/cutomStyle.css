@@ -66,19 +66,67 @@ h6 {
     line-height: 160%;
     margin-bottom: 10px;*/
 }
-.footer-menu li {
-    display: inline;
-    padding-left: 12px;
-}
-.footer-menu li:before {
-    display: inline-block;
-    content: "·";
-    padding-right: 12px;
-}
-.footer-menu li:first-child:before {
-    display: none;
-}
+.dark-bg, .dark-bg p, .dark-bg .item-details li:before{
+    color: #fff;
+  }
 
+  body {
+    font-size: 20px;
+  }
+
+  .footer-bottom{
+    background: #fff;
+    color: #506A85;
+  }
+  footer {
+    font-size: 20px;
+  }
+
+  div > .white{
+    color: #fff !important;
+  }
+
+  .btn,
+  .classic-blog .post .date,
+  .navbar .dropdown-menu:not(.yamm-dropdown-menu) > .active > a,
+  .navbar .dropdown-menu:not(.yamm-dropdown-menu) > .active > a:focus,
+  .navbar .dropdown-menu:not(.yamm-dropdown-menu) > .active > a:hover,
+  .navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:focus,
+  .navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:hover,
+  .navbar .dropdown-submenu:focus > a,
+  .navbar .dropdown-submenu:hover > a,
+  .owl-pagination .owl-page.active span,
+  .owl-pagination .owl-page:hover span,
+  #owl-main .caption h1 span.tint-bg,
+  #owl-main .caption p span.tint-bg,
+  .pagination > li > a,
+  .pagination > li > span,
+  .post.format-quote,
+  .sidemeta .format-wrapper a:hover,
+  .sidenav li a:hover,
+  .tabs-circle-top .tab.active a,
+  .tabs-side .tab a:hover,
+  .tabs-top .tab a:hover,
+  .tint-bg,
+  .tint-bg.img-bg-soft:before,
+  .tint-bg.img-bg-softer:before,
+  .tooltip-inner {
+     background-color: #008fb3;
+   }
+
+   .pagination > .active > a,
+   .pagination > .active > span,
+   .pagination > .active > a:hover,
+   .pagination > .active > span:hover,
+   .pagination > li > a:hover,
+   .pagination > li > a:focus {
+      background-color: #fff;
+       color: #005266;
+     }
+
+   div .padding-pagination{
+     padding-bottom: 20px;
+   }
 
 
   
