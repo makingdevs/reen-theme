@@ -81,6 +81,10 @@ h6 {
   footer {
     font-size: 20px;
   }
+  .innercontact {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
 
   div > .white{
     color: #fff !important;
