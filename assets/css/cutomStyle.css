@@ -1,3 +1,30 @@
+@media (max-height: 900px) and (min-width: 768px) {
+
+  .height-xs,
+  .height-sm,
+  .height-md,
+  .height-lg,
+  #owl-main .item,
+  #owl-main.height-md .item,
+  #owl-main.height-lg .item {
+    height: 700px;
+  }
+
+}
+@media (min-width: 768px) and (max-height: 768px) {
+
+  .height-xs,
+  .height-sm,
+  .height-md,
+  .height-lg,
+  #owl-main .item,
+  #owl-main.height-md .item,
+  #owl-main.height-lg .item {
+    height: 700px;
+  }
+
+}
+
 @media (min-width: 768px) and (max-height: 1024px) {
   #hero p {
     font-size: 26px !important;
@@ -25,7 +52,19 @@
     padding-bottom: 40px;
   }
 
-  h1,h2,h3,h4,h5,h6 {
+  .innercursos {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Lato', sans-serif;
     font-weight: 700;
     letter-spacing: 0.025em;
@@ -134,7 +173,7 @@ div > .white{
        color: #005266;
      }
 
-   div .padding-pagination{
-     padding-top: 20px;
-     padding-bottom: 20px;
-   }
+     div .padding-pagination{
+       padding-top: 20px;
+       padding-bottom: 20px;
+ }
