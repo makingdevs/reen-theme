@@ -119,6 +119,8 @@ body {
 
 footer {
     font-size: 20px;
+    position: absolute;
+    bottom: 0;
 }
 
 .innercontact {
