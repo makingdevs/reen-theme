@@ -1,5 +1,5 @@
 @media (max-height: 900px) and (min-width: 768px) {
-  
+
   .height-xs,
   .height-sm,
   .height-md,
@@ -9,10 +9,10 @@
   #owl-main.height-lg .item {
     height: 700px;
   }
-  
+
 }
 @media (min-width: 768px) and (max-height: 768px) {
-  
+
   .height-xs,
   .height-sm,
   .height-md,
@@ -22,43 +22,44 @@
   #owl-main.height-lg .item {
     height: 700px;
   }
-  
+
 }
 
 @media (min-width: 768px) and (max-height: 1024px) {
   #hero p {
-  font-size: 26px !important;
-  color: #fff !important;
+    font-size: 26px !important;
+    color: #fff !important;
   }
-  }
+
+}
   @media (max-width: 767px) {
-  #hero p {
-  font-size: 19px !important;
-  color: #fff !important;
-  }
+    #hero p {
+      font-size: 19px !important;
+      color: #fff !important;
+    }
   }
 
   #hero p {
-  font-size: 28px !important;
-  color: #fff !important;
-  }
+    font-size: 28px !important;
+    color: #fff !important;
+}
   .navbar-nav > li > a {
-  font-size: 25px;
+    font-size: 25px;
   }
 
   .inner {
-  padding-top: 100px;
-  padding-bottom: 40px;
+    padding-top: 100px;
+    padding-bottom: 40px;
   }
 
-   .innercursos {
+  .innercursos {
     padding-top: 80px;
     padding-bottom: 80px;
 }
 
 
 
-  h1,
+h1,
 h2,
 h3,
 h4,
@@ -66,7 +67,7 @@ h5,
 h6 {
     font-family: 'Lato', sans-serif;
     font-weight: 700;
-  letter-spacing: 0.025em;
+    letter-spacing: 0.025em;
     color: #506A85;
     margin-top: 0;
   /*word-wrap: break-word;*/
@@ -103,29 +104,34 @@ h6 {
 }
 .dark-bg, .dark-bg p, .dark-bg .item-details li:before{
     color: #fff;
-  }
 
-  body {
-    font-size: 20px;
-  }
+}
 
-  .footer-bottom{
+body {
+  font-size: 20px;
+}
+
+.footer-bottom{
     background: #fff;
     color: #506A85;
-  }
-  footer {
+    padding-top: 30px;
+}
+
+footer {
     font-size: 20px;
   }
-  .innercontact {
+
+.innercontact {
     padding-top: 0px;
     padding-bottom: 50px;
 }
- .inner {
+
+.inner {
     padding-top: 120px;
     padding-bottom: 120px;
 }
 
-  div > .white{
+div > .white{
     color: #fff !important;
   }
 
@@ -156,6 +162,7 @@ h6 {
   .tooltip-inner {
      background-color: #008fb3;
    }
+
    .pagination > .active > a,
    .pagination > .active > span,
    .pagination > .active > a:hover,
@@ -166,15 +173,15 @@ h6 {
        color: #005266;
      }
 
-   div .padding-pagination{
-     padding-bottom: 20px;
-   }
-
 #owl-main .caption.text-center {
   padding-left: 5%;
   padding-right: 5%;
 }
-
-
-
+    div .padding-pagination{
+       padding-top: 20px;
+       padding-bottom: 20px;
+ }
+ body{
+    background-color: #2F4052;
+  }
 
