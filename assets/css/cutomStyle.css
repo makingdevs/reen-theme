@@ -46,14 +46,7 @@
   .navbar-nav > li > a {
     font-size: 25px;
   }
-  .navbar-nav {
-    float: none;
-    display: table-cell;
-    vertical-align: middle;
-    padding-left: 650px;
-    margin: 0;
-}
-
+  
   .inner {
     padding-top: 100px;
     padding-bottom: 40px;
