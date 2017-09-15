@@ -185,7 +185,17 @@ div > .white{
     background-color: #2F4052;
   }
 
-  .navbar-brand img {
-  position: center;
+.navbar-brand {
+  vertical-align: middle;
+  width: 350px;
+}
+.navbar-brand img {
+  display: inline-block;
   height: 350px;
-
+}
+.navbar-brand img.animate {
+  
+}
+.navbar-header .navbar-brand {
+ 
+}
