@@ -185,3 +185,8 @@ div > .white{
     background-color: #2F4052;
   }
 
+  .navbar-brand img {
+  display: inline-block;
+  position: center;
+  height: 100px;
+
