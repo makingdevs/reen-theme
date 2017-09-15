@@ -46,7 +46,7 @@
   .navbar-nav > li > a {
     font-size: 25px;
   }
-  
+
   .inner {
     padding-top: 100px;
     padding-bottom: 40px;
@@ -194,8 +194,11 @@ div > .white{
   height: 350px;
 }
 .navbar-brand img.animate {
-  
+
 }
 .navbar-header .navbar-brand {
- 
+
+}
+.blue{
+  color:  #008fb3;
 }
