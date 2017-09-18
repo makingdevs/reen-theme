@@ -204,13 +204,13 @@ div > .white{
 }
 
 .forms label {
-  width: auto;
-  font-size: 18px;
+  width: auto !important;
+  font-size: 18px !important;
 }
 
 
 .form-control{
-  font-size: 18px;
-  color: #000;
+  font-size: 18px !important;
+  color: #000 !important;
 }
 
