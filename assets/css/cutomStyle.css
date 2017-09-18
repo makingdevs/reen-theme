@@ -202,3 +202,6 @@ div > .white{
 .blue{
   color:  #008fb3;
 }
+.forms label {
+  width: auto;
+}
