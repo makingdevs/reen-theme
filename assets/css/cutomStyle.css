@@ -204,8 +204,11 @@ div > .white{
 }
 
 .forms label {
-  width: autoi !important;
+  width: auto;
+  font-size: 18px;
 }
+
+
 .form-control{
   font-size: 18px;
   color: #000;
