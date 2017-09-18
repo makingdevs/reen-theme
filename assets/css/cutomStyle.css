@@ -202,8 +202,9 @@ div > .white{
 .blue{
   color:  #008fb3;
 }
+
 .forms label {
-  width: auto;
+  width: autoi !important;
 }
 .form-control{
   font-size: 18px;
