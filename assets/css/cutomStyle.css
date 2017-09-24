@@ -243,3 +243,17 @@ ul.arrowed li:before, ul.circled li:before,
 .yamm .yamm-content a:hover {
     color: #006bb3 ;
  }
+
+
+ .btn:hover,
+ .btn:focus,
+ .btn:active,
+ .btn.active,
+ .pagination > .active > a,
+ .pagination > .active > span,
+ .pagination > .active > a:hover,
+ .pagination > .active > span:hover,
+ .pagination > li > a:hover,
+ .pagination > li > a:focus {
+    background-color: #006bb3;
+  }
