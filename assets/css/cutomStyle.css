@@ -262,3 +262,7 @@ ul.arrowed li:before, ul.circled li:before,
     padding: 10px 10px 10px 140px !important;
 
   }
+
+  p{
+    text-align: justify !important;
+  }
