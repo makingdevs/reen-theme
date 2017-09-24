@@ -257,3 +257,8 @@ ul.arrowed li:before, ul.circled li:before,
  .pagination > li > a:focus {
     background-color: #006bb3 !important;
   }
+
+  .navbar{
+    padding: 10px 10px 10px 140px !important;
+
+  }
