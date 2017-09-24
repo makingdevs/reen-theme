@@ -210,7 +210,7 @@ div > .white{
 
 
 .form-control{
-  font-size: 18px !important;
+  font-size: 19px !important;
   color: #000 !important;
 }
 
@@ -241,7 +241,7 @@ a:focus,
 .text-center .panel-title > a:hover span:after,
 ul.arrowed li:before, ul.circled li:before,
 .yamm .yamm-content a:hover {
-    color: #006bb3 ;
+    color: #006bb3 !important;
  }
 
 
@@ -255,5 +255,5 @@ ul.arrowed li:before, ul.circled li:before,
  .pagination > .active > span:hover,
  .pagination > li > a:hover,
  .pagination > li > a:focus {
-    background-color: #006bb3;
+    background-color: #006bb3 !important;
   }
