@@ -272,9 +272,9 @@ ul.arrowed li:before, ul.circled li:before,
 .dark-bg h4 {
   color: #99ccff;
 }
-.navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:hover{
-  color: #fff !important;
 
+.hover-style{
+  color: #fff !important;
 }
 
 
