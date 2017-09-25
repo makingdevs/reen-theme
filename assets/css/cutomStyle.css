@@ -255,6 +255,7 @@ ul.arrowed li:before, ul.circled li:before,
  .pagination > li > a:hover,
  .pagination > li > a:focus {
     background-color: #006bb3 !important;
+    color: #fff;
   }
 
   .navbar{
