@@ -227,7 +227,6 @@ a:focus,
 .navbar.basic .nav .open > a,
 .navbar.basic .nav .open > a:hover,
 .navbar.basic .nav .open > a:focus,
-.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a:hover,
 .navbar .dropdown-menu:not(.yamm-dropdown-menu) li a.active,
 .navbar-header .info a:hover,
 .nav > li > a:hover,
@@ -272,6 +271,10 @@ ul.arrowed li:before, ul.circled li:before,
 .dark-bg h3,
 .dark-bg h4 {
   color: #99ccff;
+}
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:hover{
+  color: #fff !important;
+
 }
 
 
