@@ -273,6 +273,7 @@ ul.arrowed li:before, ul.circled li:before,
   color: #99ccff;
 }
 
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a:hover,
 .hover-style:hover{
   color: #fff !important;
 }
