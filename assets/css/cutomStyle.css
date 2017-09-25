@@ -46,7 +46,7 @@
   .navbar-nav > li > a {
     font-size: 25px;
   }
-  
+
   .inner {
     padding-top: 100px;
     padding-bottom: 40px;
@@ -83,7 +83,7 @@ h2 {
     margin-bottom: 20px;
 }
 h3 {
-    font-size: 20px;
+    font-size: 23px;
     line-height: 150%;
     margin-bottom: 15px;
 }
@@ -194,14 +194,91 @@ div > .white{
   height: 350px;
 }
 .navbar-brand img.animate {
-  
+
 }
 .navbar-header .navbar-brand {
- 
+
+}
+.blue{
+  color:  #008fb3;
+}
+
+.forms label {
+  width: auto !important;
+  font-size: 18px !important;
 }
 
 .inner-top-md {
     padding-top: 0px;
+
+.form-control{
+  font-size: 19px !important;
+  color: #000 !important;
+}
+
+a:hover,
+a:focus,
+.bordered .info h3 a:hover,
+.bordered .info h4 a:hover,
+.icon i.icn,
+.meta a:hover,
+.meta li.categories:hover:before,
+.more:hover,
+.navbar.basic .nav > li > a:hover,
+.navbar.basic .nav > li > a:focus,
+.navbar.basic .nav .open > a,
+.navbar.basic .nav .open > a:hover,
+.navbar.basic .nav .open > a:focus,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a.active,
+.navbar-header .info a:hover,
+.nav > li > a:hover,
+.owl-carousel:hover .owl-next:hover,
+.owl-carousel:hover .owl-prev:hover,
+.panel-title > a:hover,
+#scrollUp:hover,
+.sidemeta .format-wrapper a,
+.tabs-side .tab.active a,
+.tabs-top .tab.active a,
+.text-center .panel-title > a:hover span:after,
+ul.arrowed li:before, ul.circled li:before,
+.yamm .yamm-content a:hover {
+    color: #006bb3 !important;
+ }
+
+
+ .btn:hover,
+ .btn:focus,
+ .btn:active,
+ .btn.active,
+ .pagination > .active > a,
+ .pagination > .active > span,
+ .pagination > .active > a:hover,
+ .pagination > .active > span:hover,
+ .pagination > li > a:hover,
+ .pagination > li > a:focus {
+    background-color: #006bb3 !important;
+    color: #fff;
+  }
+
+  .navbar{
+    padding: 10px 10px 10px 140px !important;
+
+  }
+
+  p{
+    text-align: justify !important;
+  }
+
+.dark-bg h1,
+.dark-bg h2,
+.dark-bg h3,
+.dark-bg h4 {
+  color: #99ccff;
+}
+
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a:hover,
+.hover-style:hover{
+  color: #fff !important;
 }
 
 
