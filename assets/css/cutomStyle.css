@@ -273,7 +273,7 @@ ul.arrowed li:before, ul.circled li:before,
   color: #99ccff;
 }
 
-.hover-style{
+.hover-style:hover{
   color: #fff !important;
 }
 
