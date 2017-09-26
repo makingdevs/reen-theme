@@ -176,6 +176,7 @@ div > .white{
 #owl-main .caption.text-center {
   padding-left: 5%;
   padding-right: 5%;
+  padding-top: 5%;
 }
     div .padding-pagination{
        padding-top: 20px;
@@ -281,10 +282,5 @@ ul.arrowed li:before, ul.circled li:before,
   color: #fff !important;
 }
 
-#owl-main .caption.text-center {
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 5%;
-}
 
 
